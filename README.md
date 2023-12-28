@@ -1,3 +1,13 @@
-PROYECTO FINAL BACKEND CODER!!!
+PROYECTO FINAL Ecommerce BACKEND CODER!!!
 
-el deploy de Railway es https://proyectofinalecommerce-production.up.railway.app/
+deploy de Railway es https://proyectofinalecommerce-production.up.railway.app/
+
+
+En el directorio del proyecto, puede ejecutar:
+
+npm start
+Ejecuta la aplicación en modo de desarrollo.
+Abra http://localhost:3000 para verlo en su navegador.
+
+La página se recargará cuando realice cambios.
+También es posible que vea errores de pelusa en la consola.
