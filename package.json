@@ -1,5 +1,5 @@
 {
-  "name": "proyecto_final",
+  "name": "proyecto_final_ecommerce",
   "version": "1.0.0",
   "description": "This is a project from the course Backend",
   "main": "app.js",
@@ -15,9 +15,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rcossio/LearningBackend.git"
+    "url": "git+https://github.com/javi8714/Proyecto_final_ecommerce.git"
   },
-  "keywords": [],
   "author": "Javier Moreno",
   "license": "ISC",
   "dependencies": {
